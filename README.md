@@ -36,9 +36,18 @@ Even with a lot of otimism i realized that there wouldn't be enough space to mak
 <img src='Pictures/Proto 0.3.jpg' width='400px'/>
 
 
-Ok, I'll opted for a rear panel because I need space for for components
+Ok, I'll opted for a rear panel to have enough space to put everything in neatly.
+It will hold the tube holders, all the components, and the connection strips.
+
+Side view
 
 <img src='Pictures/Rear panel.jpg' width='400px'/>
+
+Empty rear panel
+
+<img src='Pictures/Empty rear panel.jpg' width='400px'/>
+
+Full rear panel
 
 <img src='Pictures/Full Rear Panel.jpg' width='400px'/>
 
@@ -53,11 +62,13 @@ Very often, tube amplifiers do not use PCBs, but rather a direct connection betw
 Some people are very particular about the wiring :D
 With well-designed wiring, you can read the diagram live, making troubleshooting much easier.
 
+To have a well done wiring we'll be using terminal strips for the tubes, making direct connections between tubes and components, not PCBs, but wire on the fly from component to component.
 
-To have enough space to put everything in neatly, I opted for a “back panel.”
-It will hold the tube holders, all the components, and the connection strips.
+<img src='Pictures/Barrette de connexion.png' width='200px'/>
 
-Holes placed just above the potentiometers, jacks, and switches will allow the wires from these elements to be routed to the back panel.
+Some holes placed just above the potentiometers, jacks, and switches will allow the wires from these elements to be routed to the back panel.
+
+
 
 ## 2 - Front et Back panel : 
 
@@ -109,13 +120,17 @@ Next time ... ;)
 
 I created an .svg file with the component footprints to anticipate the wiring.
 
-Rear panel wiring :
+Rear panel wiring in theory :
 
 <img src='Pictures/FR VCO Dual 3U Wiring V2.png' width='400px'/>
 
-We'll be using terminal strips for the lamps, making direct connections between tubes and components, not PCBs, but wire on the fly from component to component.
+Full wired rear panel
 
-<img src='Pictures/Barrette de connexion.png' width='200px'/>
+<img src='Pictures/Full Rear Panel.jpg' width='400px'/>
+
+
+
+
 
 
 ## 4 - Knob : 
