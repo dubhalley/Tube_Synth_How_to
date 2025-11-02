@@ -49,7 +49,7 @@ Empty rear panel
 
 Full rear panel
 
-<img src='Pictures/Full Rear Panel.jpg' width='400px'/>
+<img src='Pictures/Full rear panel.jpg' width='400px'/>
 
 
 
