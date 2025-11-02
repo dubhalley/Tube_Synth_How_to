@@ -19,24 +19,28 @@ Quick and dirty :)
 
 
 We agreed that it was a feasible project.
-
 So I made a prototype using Dibond.
-A reliable support for the tubes is needed.
-I thought that perhaps with a second support I would have more space to put the components.
-
-I realized that there wouldn't be enough space to make a clean assembly, so I opted for the rear side.
 
 Paper stuck on the dibond
 
 <img src='Pictures/ProtoA 0.2.jpg' width='400px'/>
 
-Tube holder
+A reliable/strong support for the tubes is needed, they don't have to move. I used another dibond for the tube sockets.
 
 <img src='Pictures/ProtoB 0.2.jpg' width='400px'/>
 
-More space for the components ? Not enough ...
+I thought that perhaps with a second support I would have more space to put the components.
+
+Even with a lot of otimism i realized that there wouldn't be enough space to make a clean assembly, 
 
 <img src='Pictures/Proto 0.3.jpg' width='400px'/>
+
+
+Ok, I'll opted for a rear panel because I need space for for components
+
+<img src='Pictures/Rear panel.jpg' width='400px'/>
+
+<img src='Pictures/Full Rear Panel.jpg' width='400px'/>
 
 
 
