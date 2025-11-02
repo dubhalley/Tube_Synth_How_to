@@ -1,7 +1,9 @@
 # Tube Synth - How to
 
-The first one !! Whoooooohooooo :)
-I'll describe all my journey of tube's noob :)
+The first one !! 
+Whoooooohooooo :)
+
+I'll describe my journey of tube's noob :)
 
 You'll find here my work in progress like a prototype :)
 
@@ -29,7 +31,7 @@ A reliable/strong support for the tubes is needed, they don't have to move. I us
 
 <img src='Pictures/ProtoB 0.2.jpg' width='400px'/>
 
-I thought that perhaps with a second support I would have more space to put the components.
+I thought that perhaps with a second support I would have enough space to place the components.
 
 Even with a lot of otimism i realized that there wouldn't be enough space to make a clean assembly, 
 
@@ -59,14 +61,25 @@ Tube modules take up space because everything is bulkier. In addition to the tub
 
 Very often, tube amplifiers do not use PCBs, but rather a direct connection between the components and the tube holder.
 
-Some people are very particular about the wiring :D
+Some people be meticulous with regard to the wiring.
 With well-designed wiring, you can read the diagram live, making troubleshooting much easier.
 
 To have a well done wiring we'll be using terminal strips for the tubes, making direct connections between tubes and components, not PCBs, but wire on the fly from component to component.
 
-<img src='Pictures/Barrette de connexion.png' width='200px'/>
+<img src='Pictures/Barrette de connexion.png' width='400px'/>
 
 Some holes placed just above the potentiometers, jacks, and switches will allow the wires from these elements to be routed to the back panel.
+
+/!\ WARNING /!\
+
+If you'll use dibond and terminal strip, you HAVE TO isolate the terminal and the dibond !!!!!!
+At the beginning i didn't though about that, but it's a VERY BIG mistake !!!!!
+
+I did a 3d Part for this.
+
+<img src='Pictures/Isolant.jpg' width='400px'/>
+
+<img src='Pictures/Isolant2.jpg' width='400px'/>
 
 
 
@@ -109,13 +122,11 @@ Kicad diagram :
 
 <img src='Pictures/Kicad_VCO_Dual.png' width='400px'/>
 
-With the symbols for kicad :
-
 
 But, looking back, I think I could have done better...
 I followed the original diagram too closely.
 It's the first one ... beginner errors :)
-Next time ... ;)
+Next time I'll do better ... ;)
 
 
 I created an .svg file with the component footprints to anticipate the wiring.
@@ -141,8 +152,6 @@ Want to make your own knob ? : https://github.com/dubhalley/Knob
 For the knobs, I made a small improvement by digging a small recess on the top, so I can put a colored washer in it to get a position slider.
 
 <img src='Pictures/knob.jpg' width='400px'/>
-
-Files :
 
 Knob : Bouton Tube V5.FCStd
 
