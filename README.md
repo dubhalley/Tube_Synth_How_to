@@ -55,6 +55,9 @@ Full rear panel
 
 Front panel
 
+<img src='Pictures/Front panel.jpg' width='400px'/>
+
+
 To hold the module vertically, i draw a support : Files/Support
 
 <img src='Pictures/Support1.jpg' width='400px'/>
