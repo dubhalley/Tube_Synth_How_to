@@ -53,6 +53,13 @@ Full rear panel
 
 <img src='Pictures/Full rear panel.jpg' width='400px'/>
 
+Front panel
+
+To hold the module vertically, i draw a support : Files/Support
+
+<img src='Pictures/Support1.jpg' width='400px'/>
+
+<img src='Pictures/Support2.jpg' width='400px'/>
 
 
 ## 1 - Choices : 
@@ -227,4 +234,4 @@ The datasheet : Files/Connector/KAMM12_FT.pdf
 <img src='Pictures/video_In_Action.mp4'/>
 
 Sorry it's a poor video...
-I send a low sinus wave from a fonction generator to the CV input, that why the waveform moove.
+I send a low sinus wave from a fonction generator to the CV input, that why the waveform moove.-
