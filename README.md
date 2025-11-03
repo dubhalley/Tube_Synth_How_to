@@ -224,4 +224,4 @@ The datasheet : Files/Connector/KAMM12_FT.pdf
 
 ## 8 - First test
 
-<img src='Pictures/video_In_Action.mp4' width='400px'/>
+<img src='Pictures/video_In_Action.mp4'/>
