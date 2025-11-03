@@ -225,3 +225,6 @@ The datasheet : Files/Connector/KAMM12_FT.pdf
 ## 8 - First test
 
 <img src='Pictures/video_In_Action.mp4'/>
+
+Sorry it's a poor video...
+I send a low sinus wave from a fonction generator to the CV input, that why the waveform moove.
