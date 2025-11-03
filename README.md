@@ -222,4 +222,6 @@ The datasheet : Files/Connector/KAMM12_FT.pdf
 <img src='Files/Connector/Connector3.jpg' width='400px'/>
 
 
+## 8 - First test
 
+<img src='Pictures/video_In_Action.mp4' width='400px'/>
