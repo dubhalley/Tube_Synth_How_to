@@ -70,12 +70,12 @@ To have a well done wiring we'll be using terminal strips for the tubes, making 
 
 Some holes placed just above the potentiometers, jacks, and switches will allow the wires from these elements to be routed to the back panel.
 
-/!\ WARNING /!\
+--> /!\ WARNING /!\ <--
 
 If you'll use dibond and terminal strip, you HAVE TO isolate the terminal and the dibond !!!!!!
-At the beginning i didn't though about that, but it's a VERY BIG mistake !!!!!
+At the beginning i didn't though about that, but it's a VERY BIG mistake, SHORT CIRCUIT !!!!!
 
-I did a 3d Part for this.
+I did a 3d Part for this, you'll find it in the files/Insulator
 
 <img src='Pictures/Isolant.jpg' width='400px'/>
 
@@ -87,7 +87,7 @@ I did a 3d Part for this.
 
 Want to make your own front panel ? : https://github.com/dubhalley/Front_Panel
 
-
+You'll find them at Files/Panels
 
 Front panel : 
 
@@ -135,12 +135,9 @@ Rear panel wiring in theory :
 
 <img src='Pictures/FR VCO Dual 3U Wiring V2.png' width='400px'/>
 
-Full wired rear panel
+Full wired rear panel in practice :
 
 <img src='Pictures/Full rear panel.jpg' width='400px'/>
-
-
-
 
 
 
@@ -148,6 +145,7 @@ Full wired rear panel
 
 Want to make your own knob ? : https://github.com/dubhalley/Knob
 
+You'll find at Files/Knob
 
 For the knobs, I made a small improvement by digging a small recess on the top, so I can put a colored washer in it to get a position slider.
 
@@ -161,6 +159,7 @@ Hat : Rond de bouton.FCStd
 
 <img src='Pictures/Rond de potar.png' width='400px'/>
 
+
 ## 5 - Case : 
 
 Want to make your own case ? : https://github.com/dubhalley/Case
@@ -170,6 +169,7 @@ Want to make your own case ? : https://github.com/dubhalley/Case
 
 The master piece that makes the whole system work is the power supply. The one we're going to use comes from an old tube oscilloscope.
 
+Here you'll see the finale power supply for the modular, because it's a powerful one :
 
 <img src='Pictures/Alim1.jpg' width='200px'/>
 
@@ -181,5 +181,45 @@ There will be 3 differents voltage at least :
 * +/-15V
 
 I'll be sure to make a documentation to find the right voltages with this kind of material. :)
+
+
+But, for the tests it's easier to check each prototype with a simpler (and lighter) power supply.
+It's also come from an old tube oscilloscope, but it's a small one.
+
+This one supply 300V DC (Few Amp) with the left connectors, and 6.3V AC (3A) with the right ones
+
+<img src='Pictures/Power supply simple.jpg' width='400px'/>
+
+300V DC ... Hummm it's too high ...
+My friend advised me to make a string of Zener diodes.
+I used 15V Zener diodes, so by connecting 10 in series, we can reduce the voltage from 150V.
+
+<img src='Pictures/Power supply simple2.jpg' width='400px'/>
+
+Closer look of the chain
+
+<img src='Pictures/Zener.jpg' width='400px'/>
+
+
+## 7 - Connectors :
+
+To power the modules, we have to choose a connector, ok, there are so many different design.
+But, which one is the best one ??
+
+We need : 
+- High voltage 150 V DC
+- Very high current in 6.3V AC a bit less than 1A per tube to heat the grid (See the datasheet of your tube) (mean 3A for the dual VCO)
+- +/-15V for the utility modules
+- GND
+
+I found a good one I think, up tu 600V and 20A per position
+The datasheet : Files/Connector/KAMM12_FT.pdf
+
+<img src='Files/Connector/Connector1.jpg' width='400px'/>
+
+<img src='Files/Connector/Connector2.jpg' width='400px'/>
+
+<img src='Files/Connector/Connector3.jpg' width='400px'/>
+
 
 
