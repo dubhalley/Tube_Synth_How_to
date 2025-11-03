@@ -5,11 +5,11 @@ Whoooooohooooo :)
 
 I'll describe my journey of tube's noob :)
 
-You'll find here my work in progress like a prototype :)
+You'll find here my work in progress like a prototype devloppment.
 
 
 Maquette V 0.1
-My partner wanted to get an idea of what it would look like.
+My friend wanted to get an idea of what it would look like.
 I made a mock-up front panel and decided on a position for the tube. Wood, hot glue...
 
 Quick and dirty :)
@@ -23,7 +23,7 @@ Quick and dirty :)
 We agreed that it was a feasible project.
 So I made a prototype using Dibond.
 
-Paper stuck on the dibond
+Paper stuck on the dibond to see what it look like.
 
 <img src='Pictures/ProtoA 0.2.jpg' width='400px'/>
 
@@ -31,7 +31,7 @@ A reliable/strong support for the tubes is needed, they don't have to move. I us
 
 <img src='Pictures/ProtoB 0.2.jpg' width='400px'/>
 
-I thought that perhaps with a second support I would have enough space to place the components.
+I thought that if i add a second support I would have enough space to place the components.
 
 Even with a lot of otimism i realized that there wouldn't be enough space to make a clean assembly, 
 
@@ -91,11 +91,11 @@ You'll find them at Files/Panels
 
 Front panel : 
 
-<img src='Files/FA VCO Dual.svg' width='400px'/>
+<img src='Files/Panel/FA VCO Dual.svg' width='400px'/>
 
 Rear panel : 
 
-<img src='Files/FR VCO Dual.svg' width='400px'/>
+<img src='Files/Panel/FR VCO Dual.svg' width='400px'/>
 
 
 
