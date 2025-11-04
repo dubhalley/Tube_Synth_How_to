@@ -189,6 +189,7 @@ There will be 3 differents voltage at least :
 * 150V DC
 * 6.3V AC
 * +/-15V
+* GND
 
 I'll be sure to make a documentation to find the right voltages with this kind of material. :)
 
@@ -223,6 +224,9 @@ We need :
 - GND
 
 I found a good one I think, up tu 600V and 20A per position
+- lock when close
+- you can't put in wrong way
+- powerful 
 The datasheet : Files/Connector/KAMM12_FT.pdf
 
 <img src='Files/Connector/Connector1.jpg' width='400px'/>
