@@ -41,6 +41,8 @@ Even with a lot of otimism i realized that there wouldn't be enough space to mak
 Ok, I'll opted for a rear panel to have enough space to put everything in neatly.
 It will hold the tube holders, all the components, and the connection strips.
 
+## Prototype V1 using Dibond
+
 Side view
 
 <img src='Pictures/Rear panel.jpg' width='400px'/>
