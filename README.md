@@ -115,7 +115,7 @@ Try to keep in mind what each component is connected to in order to optimize the
 
 There will be visible screws on the front panel to secure the rear panel in parallel with spacers.
 
-I used the .svg file from the front panel to make the rear panel, so I have all my hole positions exactly right ;) 
+I used the .svg file from the front panel to make the rear panel, just reduce the size of 5mm each side because it's become easier to fit with his friends, so I have all my hole positions exactly right ;) 
 
 
 
@@ -236,9 +236,25 @@ The datasheet : Files/Connector/KAMM12_FT.pdf
 <img src='Files/Connector/Connector3.jpg' width='400px'/>
 
 
-## 8 - First test
+## 8 - A module step by step :
+
+- The front and the rear panel
+- Drill the holes
+- Some aluminium pipe 6mm exteral diameter for the spacer between the two faces (Size it with the lengh of your tubes), and "around" 4 mm int, get mine from the same shop with 2 years between these two dates of buy and with the first one is a 3.8mm inner diameter, and the second is a 4mm. So I'll have to change my screw process... DIY !
+- Some nice screws, I choose 4mm diameter 10mm long hexagon socket screw, which is perfect for the first tube, because I directly screw in the spacer.
+- Place the tube sockets
+- Place the potentiometer with wires
+- Place the jack with wire
+- Stick the terminal strip with the schematic AND the size of the components in mind
+- Use the insulator
+- Reproduce the schematic with the components and the wires
+- Power Up
+
+## 9 - First test
 
 <img src='Pictures/video_In_Action.mp4'/>
 
 Sorry it's a poor video...
+You've too dowload the archive to see it...
+
 I send a low sinus wave from a fonction generator to the CV input, that why the waveform moove.-
