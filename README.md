@@ -8,7 +8,8 @@ I'll describe my journey of tube's noob :)
 You'll find here my work in progress like a prototype devloppment.
 
 
-Maquette V 0.1
+##Maquette
+
 My friend wanted to get an idea of what it would look like.
 I made a mock-up front panel and decided on a position for the tube. Wood, hot glue...
 
@@ -18,10 +19,9 @@ Quick and dirty :)
 
 <img src='Pictures/maquetteB 0.1.jpg' width='400px'/>
 
-
-
 We agreed that it was a feasible project.
-So I made a prototype using Dibond.
+
+##prototype V0.1 using Dibond.
 
 Paper stuck on the dibond to see what it look like.
 
@@ -248,6 +248,7 @@ The datasheet : Files/Connector/KAMM12_FT.pdf
 - Stick the terminal strip with the schematic AND the size of the components in mind
 - Use the insulator
 - Reproduce the schematic with the components and the wires
+- Connector
 - Power Up
 
 ## 9 - First test
