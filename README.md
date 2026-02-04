@@ -8,7 +8,7 @@ I'll describe my journey of tube's noob :)
 You'll find here my work in progress like a prototype devloppment.
 
 
-##Maquette
+## Maquette
 
 My friend wanted to get an idea of what it would look like.
 I made a mock-up front panel and decided on a position for the tube. Wood, hot glue...
@@ -21,7 +21,7 @@ Quick and dirty :)
 
 We agreed that it was a feasible project.
 
-##prototype V0.1 using Dibond.
+## Prototype V0.1 using Dibond.
 
 Paper stuck on the dibond to see what it look like.
 
