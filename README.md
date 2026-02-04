@@ -240,6 +240,8 @@ The datasheet : Files/Connector/KAMM12_FT.pdf
 
 ## 8 - A module step by step :
 
+I'll add pictures ASAP
+
 - The front and the rear panel
 - Drill the holes
 - Some aluminium pipe 6mm exteral diameter for the spacer between the two faces (Size it with the lengh of your tubes), and "around" 4 mm int, get mine from the same shop with 2 years between these two dates of buy and with the first one is a 3.8mm inner diameter, and the second is a 4mm. So I'll have to change my screw process... DIY !
